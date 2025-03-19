@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Comprehensive Practice of Natural Language Processing"
 collection: teaching
-type: "Workshop"
+type: "Practical Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Shandong University of Finance and Economics, Computer Science and Artificial Intelligence"
 date: 2015-01-01
-location: "City, Country"
+location: "Jinan, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
