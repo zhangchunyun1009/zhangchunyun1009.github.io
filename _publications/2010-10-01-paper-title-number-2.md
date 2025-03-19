@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 #permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '*Chunyun Zhang*, Jiqin Deng, Xiaolin Dong, Hongyan Zhao, Kailin Liu, Chaoran Cui'
-date: 2035-03-15
+date: 2025-03-15
 venue: 'Expert Systems with Applications'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper2.pdf'
