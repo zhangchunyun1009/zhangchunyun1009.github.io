@@ -3,7 +3,7 @@ title: " 基于类别对抗联合学习的跨提示自动作文评分方法 "
 collection: publications
 category: manuscripts
 #permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: '##张春云##, 赵洪焱, 邓纪芹, 崔超然, 董晓琳, 陈竹敏.'
+excerpt: '**张春云**, 赵洪焱, 邓纪芹, 崔超然, 董晓琳, 陈竹敏.'
 date: 2025-05-01
 venue: '计算机研究与发展'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
