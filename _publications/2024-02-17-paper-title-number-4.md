@@ -3,7 +3,7 @@ title: "Adversarial Source Generation for Source Free Domain Adaptation"
 collection: publications
 category: manuscripts
 #permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Chaoran Cui, Fan'an Meng, **Chunyun Zhang**, Ziyi Liu, Lei Zhu, Shuai Gong, Xue Lin.'
+excerpt: 'Chaoran Cui, Fanan Meng, **Chunyun Zhang**, Ziyi Liu, Lei Zhu, Shuai Gong, Xue Lin.'
 date: 2024-01-17
 venue: 'IEEE Transactions on Learning Technologies'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
