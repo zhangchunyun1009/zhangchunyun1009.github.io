@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: '**Chunyun Zhang**, Hebo Ma, Chaoran Cui<sup>#</sup>, Yumo Yao, Weiran Xu, Yunfeng Zhang.'
-date: 2024-04-09
+date: 2025-05-09
 venue: 'IEEE Transactions on Learning Technologies'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
