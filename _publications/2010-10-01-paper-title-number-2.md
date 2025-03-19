@@ -2,7 +2,7 @@
 title: "Pairwise dual-level alignment for cross-prompt automated essay scoring"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+#permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: '*Chunyun Zhang*, Jiqin Deng, Xiaolin Dong, Hongyan Zhao, Kailin Liu, Chaoran Cui'
 date: 2035-03-15
 venue: 'Expert Systems with Applications'
