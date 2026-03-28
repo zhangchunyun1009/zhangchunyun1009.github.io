@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Signal and Information Processing, Beijing University of Posts and Telecommunications, 2015
+* M.S. in Signal and Information Processing, Shandong Normal University, 2012
+* B.S. in Electronic Information Engineering, Shandong Normal University, 2009
 
-Work experience
+Postdoctoral Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2017.12 - 2023.06: Shandong University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2024.11 - Present: Professor, School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics
+* 2024.09 - 2024.11: Professor, School of Computer Science and Technology, Shandong University of Finance and Economics
+* 2019.12 - 2024.08: Associate Professor, School of Computer Science and Technology, Shandong University of Finance and Economics
+* 2015.09 - 2019.11: Lecturer, School of Computer Science and Technology, Shandong University of Finance and Economics
 
-Publications
+Research Projects
+======
+* National Natural Science Foundation of China (NSFC), Youth Project (No. 61703234), "Research on Key Issues of Weakly Supervised Relation Extraction in Open Domain", 2018-2020, PI
+* Shandong Provincial Natural Science Foundation, Key Project (No. ZR2020KF015), "Research on Key Issues of Intelligent Question Answering System for Government Services", 2021-2023, PI
+* China Postdoctoral Science Foundation, General Project, PI
+
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Patents
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* 张春云; 杨春丽; 崔超然; 赵洪焱. 基于类别和样本感知提示的跨主题作文评分方法及系统 (ZL 2025 1 0878567.7), 2025
+* 张春云; 赵洪焱; 杨春丽; 崔超然; 杨福峻; 宋启龙. 一种基于对抗性主题感知的跨主题自动作文评分方法及系统 (ZL 202510024090.6), 2025
+* 张春云; 邓纪芹; 崔超然; 赵洪焱. 一种基于类别对抗联合学习的跨提示自动作文评分方法、装置及电子设备 (ZL 2024 1 0538624.2), 2024
+* 张春云; 邓纪芹; 崔超然; 赵洪焱; 李磊. 基于成对双层对抗对齐的跨主题作文自动测评方法及系统 (ZL 2024 1 0114378.8), 2024
+* 张春云; 崔超然; 尹义龙. 一种基于反馈序列多任务学习的法律判决预测方法及系统 (ZL 2020 1 0031722.9), 2023
+* 张春云; 崔超然; 林培光; 吕鹏. 基于对抗式注意力机制的一样本知识图谱关系学习方法及系统 (ZL 2019 1 1105384.2), 2019
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Academic Services
 ======
-* Currently signed in to 43 different slack teams
+* Member, Youth Professional Committee, Chinese Information Processing Society of China
+* Corresponding Member, Machine Learning Committee, Chinese Association for Artificial Intelligence
+* Council Member, Shandong Artificial Intelligence Society
