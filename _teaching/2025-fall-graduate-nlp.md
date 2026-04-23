@@ -1,5 +1,5 @@
 ---
-title: "Natural Language Processing"
+title: "Natural Language Processing (Graduate)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-fall-graduate-nlp
