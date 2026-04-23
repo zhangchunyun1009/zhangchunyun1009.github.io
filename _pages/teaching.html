@@ -7,45 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Natural Language Processing
-======
-
-* Undergraduate course, School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics
-* This course introduces the core methods and model architectures in natural language processing, with emphasis on representation learning, sequence modeling, transformer-based architectures, and pre-trained language models.
-* Teaching Contents:
-  * Introduction (20250825)
-  * Word Vector Representation (20250901)
-  * Sequence Modeling
-  * Neural Language Models and RNN
-  * Attention Mechanism and Transformer
-  * Pre-trained Models: ELMo, BERT
-  * Pre-trained Models: GPT, BART
-
-Natural Language Processing (Graduate)
-======
-
-* Graduate course, School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics
-* This graduate course explores advanced topics in natural language processing, including neural sequence modeling, pre-trained language models, prompt-based methods, knowledge augmentation, and emerging language agent paradigms.
-* Teaching Contents:
-  * Introduction
-  * SeqModel
-  * LSTM
-  * attention in NLP
-  * BERT
-  * NLGdecoding
-  * PLM
-  * PromptLearning
-  * Adaptation
-  * RAG
-  * LangAgent
-
-Comprehensive Practice of Natural Language Processing
-======
-
-* Practical course, School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics
-* This practice-oriented course helps students connect fundamental NLP concepts with implementation, experimentation, and end-to-end system understanding.
-* Teaching Contents:
-  * Practical implementation of NLP models
-  * Experimental design and model evaluation
-  * End-to-end workflow for NLP applications
-  * Training and analysis with real-world datasets
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
