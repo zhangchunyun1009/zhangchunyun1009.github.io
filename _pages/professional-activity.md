@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-This page summarizes my current professional service and research project leadership.
-
-## Hosted Research Projects
+## Funding and Grants
 
 * National Natural Science Foundation of China, Youth Project, 2018.01-2020.12, Principal Investigator
 * Shandong Provincial Natural Science Foundation, Key Project, 2021.01-2023.12, Principal Investigator
