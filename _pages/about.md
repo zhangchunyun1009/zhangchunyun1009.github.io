@@ -11,20 +11,14 @@ School of Computer Science and Artificial Intelligence, Shandong University of F
 Room 1701, Building 1, No. 7366 Erhuan Road, Jinan, China<br>
 <zhangchunyun1009@126.com> | <zhangchunyun@sdufe.edu.cn><br>
 
-Dr. Chunyun Zhang was born in 1986 in Liaocheng, China. She received her PhD degree in Signal and Information Processing from Beijing University of Posts and Telecommunications in 2015, under the supervision of Prof. Jun Guo. She received her B.S. and M.S. degrees from Shandong Normal University in 2009 and 2012, respectively. She completed her postdoctoral research at Shandong University from 2017 to 2023. She joined Shandong University of Finance and Economics in 2015 and was promoted to Full Professor in 2024.
+Dr. Chunyun Zhang was born in 1986 in Liaocheng, China. She received her PhD degree in Signal and Information Processing from Beijing University of Posts and Telecommunications in 2015, under the supervision of Prof. Jun Guo (郭军). She received her B.S. and M.S. degrees from Shandong Normal University in 2009 and 2012, respectively. She completed her postdoctoral research at Shandong University (2017-2023). She joined Shandong University of Finance and Economics in 2015 and was promoted to Full Professor in 2024.
+
 
 **Research Interests:**
 
 * Natural Language Processing: relation extraction, natural language understanding
 * Machine Learning: domain adaptation/generalization, test-time adaptation, diffusion models
 * Educational Data Mining: knowledge tracing, automated essay scoring
-
-**Hosted Research Projects:**
-
-* National Natural Science Foundation of China, Youth Project, 2018.01-2020.12
-* Shandong Provincial Natural Science Foundation, Key Project, 2021.01-2023.12
-* China Postdoctoral Science Foundation, 2018.08-2020.07
-* Shandong Province Higher Education Support Program (Science and Technology), 2016.06-2017.06
 
 **Academic Services:**
 
