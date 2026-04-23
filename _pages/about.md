@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 PhD, Professor, Master's Supervisor<br>
-<span style="display:inline-block; white-space:nowrap; font-size:0.96rem;">School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics</span><br>
+School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics<br>
 Room 1701, Building 1, No. 7366 Erhuan Road, Jinan, China<br>
 <zhangchunyun1009@126.com> | <zhangchunyun@sdufe.edu.cn><br>
 
@@ -18,3 +18,16 @@ Dr. Chunyun Zhang was born in 1986 in Liaocheng, China. She received her PhD deg
 * Natural Language Processing: relation extraction, natural language understanding
 * Machine Learning: domain adaptation/generalization, test-time adaptation, diffusion models
 * Educational Data Mining: knowledge tracing, automated essay scoring
+
+**Hosted Research Projects:**
+
+* National Natural Science Foundation of China, Youth Project, 2018.01-2020.12
+* Shandong Provincial Natural Science Foundation, Key Project, 2021.01-2023.12
+* China Postdoctoral Science Foundation, 2018.08-2020.07
+* Shandong Province Higher Education Support Program (Science and Technology), 2016.06-2017.06
+
+**Academic Services:**
+
+* Member, Youth Professional Committee, Chinese Information Processing Society of China
+* Corresponding Member, Machine Learning Committee, Chinese Association for Artificial Intelligence
+* Council Member, Shandong Artificial Intelligence Society
