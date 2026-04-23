@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 PhD, Professor, Master's Supervisor<br>
-School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics<br>
+<span style="display:inline-block; white-space:nowrap; font-size:0.96rem;">School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics</span><br>
 Room 1701, Building 1, No. 7366 Erhuan Road, Jinan, China<br>
 <zhangchunyun1009@126.com> | <zhangchunyun@sdufe.edu.cn><br>
 
