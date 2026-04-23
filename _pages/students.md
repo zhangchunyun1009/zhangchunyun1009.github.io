@@ -1,8 +1,10 @@
 ---
 layout: single
-title: "Students"
-permalink: /students/
+title: "Student"
+permalink: /student/
 author_profile: true
+redirect_from:
+  - /students/
 ---
 
 ## Graduated Students
