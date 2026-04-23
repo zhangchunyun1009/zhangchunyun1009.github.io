@@ -15,8 +15,8 @@ redirect_from:
 
 ## Current Students
 
-* **Fujun Yang**, 2023.09-present. M.S. student.
-* **Qilong Song**, 2024.09-present. M.S. student.
-* **Zhiqing Lu**, 2024.09-present. M.S. student.
-* **Yijun Liu**, 2025.09-present. M.S. student.
-* **Jinnuo Han**, 2025.09-present. M.S. student.
+* **Fujun Yang**, 2023.09-present. M.S. student. Topic: Test-time Domain Adaptation, Diffusion Models.
+* **Qilong Song**, 2024.09-present. M.S. student. Topic: Knowledge Distillation for Multimodal Large Language Models.
+* **Zhiqing Lu**, 2024.09-present. M.S. student. Topic: Automated Essay Scoring.
+* **Yijun Liu**, 2025.09-present. M.S. student. Topic: Test-time Domain Adaptation.
+* **Jinnuo Han**, 2025.09-present. M.S. student. Topic: Knowledge Tracing.
