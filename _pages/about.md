@@ -23,6 +23,6 @@ Dr. Chunyun Zhang was born in 1986 in Liaocheng, China. She received her PhD deg
 
 **Academic Services:**
 
-* Member, Youth Professional Committee, Chinese Information Processing Society of China
-* Corresponding Member, Machine Learning Committee, Chinese Association for Artificial Intelligence
-* Council Member, Shandong Artificial Intelligence Society
+* Member, Youth Professional Committee, Chinese Information Processing Society of China (中国中文信息学会青年工作委员会)
+* Corresponding Member, Machine Learning Committee, Chinese Association for Artificial Intelligence (中国人工智能学会机器学习专委会)
+* Council Member, Shandong Artificial Intelligence Society (山东省人工智能学会)
