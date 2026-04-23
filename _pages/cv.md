@@ -28,9 +28,10 @@ Work Experience
 
 Research Projects
 ======
-* National Natural Science Foundation of China (NSFC), Youth Project (No. 61703234), "Research on Key Issues of Weakly Supervised Relation Extraction in Open Domain", 2018-2020, PI
-* Shandong Provincial Natural Science Foundation, Key Project (No. ZR2020KF015), "Research on Key Issues of Intelligent Question Answering System for Government Services", 2021-2023, PI
-* China Postdoctoral Science Foundation, General Project, PI
+* National Natural Science Foundation of China, Youth Project, 2018.01 - 2020.12, Principal Investigator
+* Shandong Provincial Natural Science Foundation, Key Project, 2021.01 - 2023.12, Principal Investigator
+* China Postdoctoral Science Foundation, 2018.08 - 2020.07, Principal Investigator
+* Shandong Province Higher Education Support Program (Science and Technology), 2016.06 - 2017.06, Principal Investigator
 
 Selected Publications
 ======
