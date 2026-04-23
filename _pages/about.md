@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 PhD, Professor, Master's Supervisor
+
 School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics<br>
 Room 1701, Building 1, No. 7366 Erhuan Road, Jinan, China<br>
-zhangchunyun1009@126.com | zhangchunyun@sdufe.edu.cn<br>
+<zhangchunyun1009@126.com> | <zhangchunyun@sdufe.edu.cn><br>
 
 Dr. Chunyun Zhang was born in 1986 in Liaocheng, China. She received her PhD degree in Signal and Information Processing from Beijing University of Posts and Telecommunications in 2015, under the supervision of Prof. Jun Guo (郭军). She received her B.S. and M.S. degrees from Shandong Normal University in 2009 and 2012, respectively. She completed her postdoctoral research at Shandong University (2017-2023). She joined Shandong University of Finance and Economics in 2015 and was promoted to Full Professor in 2024.
 
