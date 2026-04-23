@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-PhD, Professor, Master's Supervisor
+PhD, Professor, Master's Supervisor<br>
 
 School of Computer Science and Artificial Intelligence, Shandong University of Finance and Economics<br>
 Room 1701, Building 1, No. 7366 Erhuan Road, Jinan, China<br>
