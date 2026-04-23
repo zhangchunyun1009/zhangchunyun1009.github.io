@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Chunyun Zhang (张春云)"
 author_profile: true

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Student"
 permalink: /student/
 author_profile: true
